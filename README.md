@@ -1,1 +1,1 @@
-This is Spotify Web Clone using HTML & CSS. 
+This is Web Music Player Frontend using HTML & CSS. 
